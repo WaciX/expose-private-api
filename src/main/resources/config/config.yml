@@ -1,0 +1,7 @@
+http:
+  port: 8080
+
+logging:
+  level: INFO
+  console:
+    enabled: true
