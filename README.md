@@ -1,9 +1,7 @@
 # Expose Private API
-Expose Private API of a website, download resources and customize it in your way.
+Expose modulable Private API of any website, by defining steps that needs to happen, in order to download resources from it.
 
-The aim of the project is to provide a standarised way of downloading any resources of the website in easy, modulable and fully configurable way, with pre-defines steps for each website.
-
-The library comes with standard tools, that exposes an easy way to define steps and download resources via interfaces / protocols:
+The library comes with standard tools that listens on interfaces / protocols:
 * CLI
 * HTTP
 * FTP
